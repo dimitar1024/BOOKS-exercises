@@ -1,0 +1,38 @@
+import java.util.Scanner;
+
+
+public class _09_MaxSumFromSequenceElements {
+
+	private static Scanner sc;
+
+	public static void main(String[] args) {
+		//read from console
+		sc = new Scanner(System.in);
+		int sum = Integer.parseInt(sc.nextLine());
+		String input = sc.nextLine().trim();
+		String[] numsToStr = input.split(",");
+		//parse string to numbers
+		int[] numbers = new int[numsToStr.length];
+		for (int i = 0; i < numsToStr.length; i++) {
+			numsToStr[i] = numsToStr[i].trim();
+			numbers[i] = Integer.parseInt(numsToStr[i]);
+			System.out.print(numbers[i] + " ");
+		}
+		// program
+		long sumNow = 0;
+		for (int i = 0; i < numbers.length; i++) {
+			sumNow = 0;
+			for (int j = i; j >=0; j--) {
+				sumNow += numbers[j];
+				if (sumNow == sum) {
+					for (int start = i; start <= j; start++) {
+						System.out.print(numbers[start] + ", ");
+					}
+					
+				}
+			}
+		}
+
+	}
+
+}

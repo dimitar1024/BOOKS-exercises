@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\04. SampleProgram\bin\Debug\_04.SampleProgram.exe.config
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\04. SampleProgram\bin\Debug\_04.SampleProgram.exe
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\04. SampleProgram\bin\Debug\_04.SampleProgram.pdb
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\04. SampleProgram\obj\Debug\04. SampleProgram.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\04. SampleProgram\obj\Debug\_04.SampleProgram.exe
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\04. SampleProgram\obj\Debug\_04.SampleProgram.pdb

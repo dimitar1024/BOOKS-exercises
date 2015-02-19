@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\03. CheckingTens\bin\Debug\_03.CheckingTens.exe.config
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\03. CheckingTens\bin\Debug\_03.CheckingTens.exe
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\03. CheckingTens\bin\Debug\_03.CheckingTens.pdb
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\03. CheckingTens\obj\Debug\03. CheckingTens.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\03. CheckingTens\obj\Debug\_03.CheckingTens.exe
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\03. CheckingTens\obj\Debug\_03.CheckingTens.pdb

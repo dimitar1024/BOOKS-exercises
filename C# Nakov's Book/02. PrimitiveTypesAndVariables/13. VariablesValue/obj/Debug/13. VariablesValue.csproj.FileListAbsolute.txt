@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\13. VariablesValue\bin\Debug\_13.VariablesValue.exe.config
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\13. VariablesValue\obj\Debug\13. VariablesValue.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\13. VariablesValue\bin\Debug\_13.VariablesValue.exe
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\13. VariablesValue\bin\Debug\_13.VariablesValue.pdb
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\13. VariablesValue\obj\Debug\_13.VariablesValue.exe
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\13. VariablesValue\obj\Debug\_13.VariablesValue.pdb

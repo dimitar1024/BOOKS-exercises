@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\09. SumProgramArray\bin\Debug\_09.SumProgramArray.exe.config
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\09. SumProgramArray\bin\Debug\_09.SumProgramArray.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\09. SumProgramArray\bin\Debug\_09.SumProgramArray.pdb
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\09. SumProgramArray\obj\Debug\09. SumProgramArray.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\09. SumProgramArray\obj\Debug\_09.SumProgramArray.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\09. SumProgramArray\obj\Debug\_09.SumProgramArray.pdb

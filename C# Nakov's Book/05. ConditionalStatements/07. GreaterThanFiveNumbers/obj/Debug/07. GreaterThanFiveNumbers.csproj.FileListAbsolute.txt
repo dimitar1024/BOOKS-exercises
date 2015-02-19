@@ -1,0 +1,5 @@
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\07. GreaterThanFiveNumbers\bin\Debug\_07.GreaterThanFiveNumbers.exe.config
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\07. GreaterThanFiveNumbers\bin\Debug\_07.GreaterThanFiveNumbers.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\07. GreaterThanFiveNumbers\bin\Debug\_07.GreaterThanFiveNumbers.pdb
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\07. GreaterThanFiveNumbers\obj\Debug\_07.GreaterThanFiveNumbers.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\07. GreaterThanFiveNumbers\obj\Debug\_07.GreaterThanFiveNumbers.pdb

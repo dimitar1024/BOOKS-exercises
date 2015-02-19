@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\09. SumProgram\bin\Debug\_09.SumProgram.exe.config
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\09. SumProgram\bin\Debug\_09.SumProgram.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\09. SumProgram\bin\Debug\_09.SumProgram.pdb
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\09. SumProgram\obj\Debug\09. SumProgram.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\09. SumProgram\obj\Debug\_09.SumProgram.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\09. SumProgram\obj\Debug\_09.SumProgram.pdb

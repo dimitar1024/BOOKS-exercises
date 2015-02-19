@@ -1,0 +1,5 @@
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\11. PrintTriangle\bin\Debug\_11.PrintTriangle.exe.config
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\11. PrintTriangle\bin\Debug\_11.PrintTriangle.exe
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\11. PrintTriangle\bin\Debug\_11.PrintTriangle.pdb
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\11. PrintTriangle\obj\Debug\_11.PrintTriangle.exe
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\11. PrintTriangle\obj\Debug\_11.PrintTriangle.pdb

@@ -1,0 +1,5 @@
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\10 Four-digitNumbersProgram\bin\Debug\10 Four-digitNumbersProgram.exe.config
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\10 Four-digitNumbersProgram\bin\Debug\10 Four-digitNumbersProgram.exe
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\10 Four-digitNumbersProgram\bin\Debug\10 Four-digitNumbersProgram.pdb
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\10 Four-digitNumbersProgram\obj\Debug\10 Four-digitNumbersProgram.exe
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\10 Four-digitNumbersProgram\obj\Debug\10 Four-digitNumbersProgram.pdb

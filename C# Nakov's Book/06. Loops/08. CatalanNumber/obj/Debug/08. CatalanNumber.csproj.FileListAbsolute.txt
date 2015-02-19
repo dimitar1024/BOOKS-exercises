@@ -1,0 +1,5 @@
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\08. CatalanNumber\bin\Debug\_08.CatalanNumber.exe.config
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\08. CatalanNumber\bin\Debug\_08.CatalanNumber.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\08. CatalanNumber\bin\Debug\_08.CatalanNumber.pdb
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\08. CatalanNumber\obj\Debug\_08.CatalanNumber.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\08. CatalanNumber\obj\Debug\_08.CatalanNumber.pdb

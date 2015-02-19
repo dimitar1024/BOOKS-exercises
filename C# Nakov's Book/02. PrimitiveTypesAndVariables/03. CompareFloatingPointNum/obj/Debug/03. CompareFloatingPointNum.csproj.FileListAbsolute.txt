@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\03. CompareFloatingPointNum\bin\Debug\_03.CompareFloatingPointNum.exe.config
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\03. CompareFloatingPointNum\obj\Debug\03. CompareFloatingPointNum.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\03. CompareFloatingPointNum\bin\Debug\_03.CompareFloatingPointNum.exe
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\03. CompareFloatingPointNum\bin\Debug\_03.CompareFloatingPointNum.pdb
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\03. CompareFloatingPointNum\obj\Debug\_03.CompareFloatingPointNum.exe
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\03. CompareFloatingPointNum\obj\Debug\_03.CompareFloatingPointNum.pdb

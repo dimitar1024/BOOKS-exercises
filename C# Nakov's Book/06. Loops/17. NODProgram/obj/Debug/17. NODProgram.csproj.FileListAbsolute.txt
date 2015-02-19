@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\17. NODProgram\bin\Debug\_17.NODProgram.exe.config
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\17. NODProgram\bin\Debug\_17.NODProgram.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\17. NODProgram\bin\Debug\_17.NODProgram.pdb
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\17. NODProgram\obj\Debug\17. NODProgram.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\17. NODProgram\obj\Debug\_17.NODProgram.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\17. NODProgram\obj\Debug\_17.NODProgram.pdb

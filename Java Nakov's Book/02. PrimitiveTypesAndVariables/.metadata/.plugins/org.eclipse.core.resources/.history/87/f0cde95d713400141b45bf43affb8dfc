@@ -1,0 +1,12 @@
+
+public class _5_StringToObect {
+
+	public static void main(String[] args) {
+		String one = "Hello";
+		String two = "World";
+		Object newStr = one + " " + two + "!";
+		
+		System.out.println(newStr);
+	}
+
+}

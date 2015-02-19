@@ -1,0 +1,5 @@
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\10. RangeNumbers\bin\Debug\_10.RangeNumbers.exe.config
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\10. RangeNumbers\bin\Debug\_10.RangeNumbers.exe
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\10. RangeNumbers\bin\Debug\_10.RangeNumbers.pdb
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\10. RangeNumbers\obj\Debug\_10.RangeNumbers.exe
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\10. RangeNumbers\obj\Debug\_10.RangeNumbers.pdb

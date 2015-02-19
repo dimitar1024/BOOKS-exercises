@@ -1,0 +1,20 @@
+
+public class _7_Triangle {
+
+	public static void main(String[] args) {
+		
+		String outstr = "";
+		for (int i = 0; i < 5; i++) {
+			outstr += " "; 
+		}
+		
+		outstr += "*";
+		for (int i = 0; i < 5; i++) {
+			outstr += " "; 
+		}
+		
+		System.out.println(outstr);
+
+	}
+
+}

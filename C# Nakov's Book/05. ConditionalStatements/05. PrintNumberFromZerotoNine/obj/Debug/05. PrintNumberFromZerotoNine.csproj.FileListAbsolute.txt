@@ -1,0 +1,5 @@
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\05. PrintNumberFromZerotoNine\bin\Debug\_05.PrintNumberFromZerotoNine.exe.config
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\05. PrintNumberFromZerotoNine\bin\Debug\_05.PrintNumberFromZerotoNine.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\05. PrintNumberFromZerotoNine\bin\Debug\_05.PrintNumberFromZerotoNine.pdb
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\05. PrintNumberFromZerotoNine\obj\Debug\_05.PrintNumberFromZerotoNine.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\05. PrintNumberFromZerotoNine\obj\Debug\_05.PrintNumberFromZerotoNine.pdb

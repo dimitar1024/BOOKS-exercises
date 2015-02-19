@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+
+public class _01_ReverseWords {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		String word = sc.next("[\\w]");
+		String newWord = reverseWords(word);
+		System.out.println(newWord);
+	}
+	
+	public static String reverseWords(String str){
+		StringBuffer reverse = new StringBuffer();
+		
+		for (int i = str.length()-1; i >= 0; i--) {
+			reverse.append(str.charAt(i));
+		}
+		
+		return reverse.toString();
+	}
+
+}

@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\05. Fibonaci numbers\bin\Debug\_05.Fibonaci_numbers.exe.config
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\05. Fibonaci numbers\bin\Debug\_05.Fibonaci_numbers.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\05. Fibonaci numbers\bin\Debug\_05.Fibonaci_numbers.pdb
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\05. Fibonaci numbers\obj\Debug\05. Fibonaci numbers.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\05. Fibonaci numbers\obj\Debug\_05.Fibonaci_numbers.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\05. Fibonaci numbers\obj\Debug\_05.Fibonaci_numbers.pdb

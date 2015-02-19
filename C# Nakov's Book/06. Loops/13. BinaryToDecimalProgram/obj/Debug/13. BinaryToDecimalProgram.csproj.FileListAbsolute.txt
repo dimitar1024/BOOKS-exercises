@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\13. BinaryToDecimalProgram\bin\Debug\_13.BinaryToDecimalProgram.exe.config
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\13. BinaryToDecimalProgram\bin\Debug\_13.BinaryToDecimalProgram.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\13. BinaryToDecimalProgram\bin\Debug\_13.BinaryToDecimalProgram.pdb
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\13. BinaryToDecimalProgram\obj\Debug\13. BinaryToDecimalProgram.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\13. BinaryToDecimalProgram\obj\Debug\_13.BinaryToDecimalProgram.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\13. BinaryToDecimalProgram\obj\Debug\_13.BinaryToDecimalProgram.pdb

@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\11. CountingZerosInBinaryRecordingFactoriel\bin\Debug\_11.CountingZerosInBinaryRecordingFactoriel.exe.config
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\11. CountingZerosInBinaryRecordingFactoriel\bin\Debug\_11.CountingZerosInBinaryRecordingFactoriel.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\11. CountingZerosInBinaryRecordingFactoriel\bin\Debug\_11.CountingZerosInBinaryRecordingFactoriel.pdb
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\11. CountingZerosInBinaryRecordingFactoriel\obj\Debug\11. CountingZerosInBinaryRecordingFactoriel.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\11. CountingZerosInBinaryRecordingFactoriel\obj\Debug\_11.CountingZerosInBinaryRecordingFactoriel.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\11. CountingZerosInBinaryRecordingFactoriel\obj\Debug\_11.CountingZerosInBinaryRecordingFactoriel.pdb

@@ -1,0 +1,5 @@
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\12. CheckingBitOnPositionAndPrintBool\bin\Debug\_12.CheckingBitOnPositionAndPrintBool.exe.config
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\12. CheckingBitOnPositionAndPrintBool\bin\Debug\_12.CheckingBitOnPositionAndPrintBool.exe
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\12. CheckingBitOnPositionAndPrintBool\bin\Debug\_12.CheckingBitOnPositionAndPrintBool.pdb
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\12. CheckingBitOnPositionAndPrintBool\obj\Debug\_12.CheckingBitOnPositionAndPrintBool.exe
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\12. CheckingBitOnPositionAndPrintBool\obj\Debug\_12.CheckingBitOnPositionAndPrintBool.pdb

@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\07. SeventhChapter\01. ArrayFrom20elements\bin\Debug\_01.ArrayFrom20elements.exe.config
+G:\Programing Language\C# Nakov's Book\07. SeventhChapter\01. ArrayFrom20elements\bin\Debug\_01.ArrayFrom20elements.exe
+G:\Programing Language\C# Nakov's Book\07. SeventhChapter\01. ArrayFrom20elements\bin\Debug\_01.ArrayFrom20elements.pdb
+G:\Programing Language\C# Nakov's Book\07. SeventhChapter\01. ArrayFrom20elements\obj\Debug\01. ArrayFrom20elements.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\07. SeventhChapter\01. ArrayFrom20elements\obj\Debug\_01.ArrayFrom20elements.exe
+G:\Programing Language\C# Nakov's Book\07. SeventhChapter\01. ArrayFrom20elements\obj\Debug\_01.ArrayFrom20elements.pdb

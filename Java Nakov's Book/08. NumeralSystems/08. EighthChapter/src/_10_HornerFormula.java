@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+public class _10_HornerFormula {
+
+	private static Scanner sc;
+
+	public static void main(String[] args) {
+		sc = new Scanner(System.in);
+		
+		String bitNum = sc.nextLine();
+		long decimal = 0;
+		if (bitNum == "0") {
+			decimal = 0;
+		}
+		else if (bitNum == "1") {
+			decimal = 1;
+		}
+		else {
+			decimal = ((bitNum.charAt(0) - '0')*2) + (bitNum.charAt(1) - '0');
+			for (int i = 0; i < bitNum.length()-1; i++) {
+				decimal = (decimal * 2) + (bitNum.charAt(i + 1) - 48);
+			}
+		}
+		System.out.println(decimal);
+	}
+		// Deffect !!!
+}

@@ -1,0 +1,5 @@
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\06. FactorielProgram\bin\Debug\_06.FactorielProgram.exe.config
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\06. FactorielProgram\bin\Debug\_06.FactorielProgram.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\06. FactorielProgram\bin\Debug\_06.FactorielProgram.pdb
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\06. FactorielProgram\obj\Debug\_06.FactorielProgram.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\06. FactorielProgram\obj\Debug\_06.FactorielProgram.pdb

@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\10. HeartProgram\bin\Debug\_10.HeartProgram.exe.config
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\10. HeartProgram\bin\Debug\_10.HeartProgram.exe
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\10. HeartProgram\bin\Debug\_10.HeartProgram.pdb
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\10. HeartProgram\obj\Debug\_10.HeartProgram.exe
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\10. HeartProgram\obj\Debug\_10.HeartProgram.pdb
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\10. HeartProgram\obj\Debug\10. HeartProgram.csprojResolveAssemblyReference.cache

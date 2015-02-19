@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\12. FibonacciSequence\bin\Debug\_12.FibonacciSequence.exe.config
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\12. FibonacciSequence\bin\Debug\_12.FibonacciSequence.exe
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\12. FibonacciSequence\bin\Debug\_12.FibonacciSequence.pdb
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\12. FibonacciSequence\obj\Debug\12. FibonacciSequence.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\12. FibonacciSequence\obj\Debug\_12.FibonacciSequence.exe
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\12. FibonacciSequence\obj\Debug\_12.FibonacciSequence.pdb

@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\04. PrintNumbersHexAndFloat\bin\Debug\_04.PrintNumbersHexAndFloat.exe.config
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\04. PrintNumbersHexAndFloat\bin\Debug\_04.PrintNumbersHexAndFloat.exe
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\04. PrintNumbersHexAndFloat\bin\Debug\_04.PrintNumbersHexAndFloat.pdb
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\04. PrintNumbersHexAndFloat\obj\Debug\04. PrintNumbersHexAndFloat.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\04. PrintNumbersHexAndFloat\obj\Debug\_04.PrintNumbersHexAndFloat.exe
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\04. PrintNumbersHexAndFloat\obj\Debug\_04.PrintNumbersHexAndFloat.pdb

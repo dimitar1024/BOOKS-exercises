@@ -1,0 +1,5 @@
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\05. MaleOrFemale\bin\Debug\_05.MaleOrFemale.exe.config
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\05. MaleOrFemale\bin\Debug\_05.MaleOrFemale.exe
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\05. MaleOrFemale\bin\Debug\_05.MaleOrFemale.pdb
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\05. MaleOrFemale\obj\Debug\_05.MaleOrFemale.exe
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\05. MaleOrFemale\obj\Debug\_05.MaleOrFemale.pdb

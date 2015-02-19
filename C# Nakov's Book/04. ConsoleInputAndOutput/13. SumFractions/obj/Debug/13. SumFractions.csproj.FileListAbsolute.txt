@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\13. SumFractions\bin\Debug\_13.SumFractions.exe.config
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\13. SumFractions\obj\Debug\13. SumFractions.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\13. SumFractions\bin\Debug\_13.SumFractions.exe
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\13. SumFractions\bin\Debug\_13.SumFractions.pdb
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\13. SumFractions\obj\Debug\_13.SumFractions.exe
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\13. SumFractions\obj\Debug\_13.SumFractions.pdb

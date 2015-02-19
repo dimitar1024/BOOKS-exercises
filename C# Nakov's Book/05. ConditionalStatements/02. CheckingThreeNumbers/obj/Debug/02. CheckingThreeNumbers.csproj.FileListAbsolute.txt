@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\02. CheckingThreeNumbers\bin\Debug\_02.CheckingThreeNumbers.exe.config
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\02. CheckingThreeNumbers\bin\Debug\_02.CheckingThreeNumbers.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\02. CheckingThreeNumbers\bin\Debug\_02.CheckingThreeNumbers.pdb
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\02. CheckingThreeNumbers\obj\Debug\02. CheckingThreeNumbers.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\02. CheckingThreeNumbers\obj\Debug\_02.CheckingThreeNumbers.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\02. CheckingThreeNumbers\obj\Debug\_02.CheckingThreeNumbers.pdb

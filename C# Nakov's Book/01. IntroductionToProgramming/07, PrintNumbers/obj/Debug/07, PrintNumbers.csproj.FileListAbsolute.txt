@@ -1,0 +1,5 @@
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\07, PrintNumbers\bin\Debug\07, PrintNumbers.exe.config
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\07, PrintNumbers\bin\Debug\07, PrintNumbers.exe
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\07, PrintNumbers\bin\Debug\07, PrintNumbers.pdb
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\07, PrintNumbers\obj\Debug\07, PrintNumbers.exe
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\07, PrintNumbers\obj\Debug\07, PrintNumbers.pdb

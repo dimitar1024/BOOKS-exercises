@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\15. HexToDecimalProgram\bin\Debug\_15.HexToDecimalProgram.exe.config
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\15. HexToDecimalProgram\bin\Debug\_15.HexToDecimalProgram.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\15. HexToDecimalProgram\bin\Debug\_15.HexToDecimalProgram.pdb
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\15. HexToDecimalProgram\obj\Debug\15. HexToDecimalProgram.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\15. HexToDecimalProgram\obj\Debug\_15.HexToDecimalProgram.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\15. HexToDecimalProgram\obj\Debug\_15.HexToDecimalProgram.pdb

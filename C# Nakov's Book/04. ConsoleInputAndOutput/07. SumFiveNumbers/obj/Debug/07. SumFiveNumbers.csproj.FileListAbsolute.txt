@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\07. SumFiveNumbers\bin\Debug\_07.SumFiveNumbers.exe.config
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\07. SumFiveNumbers\obj\Debug\07. SumFiveNumbers.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\07. SumFiveNumbers\bin\Debug\_07.SumFiveNumbers.exe
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\07. SumFiveNumbers\bin\Debug\_07.SumFiveNumbers.pdb
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\07. SumFiveNumbers\obj\Debug\_07.SumFiveNumbers.exe
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\07. SumFiveNumbers\obj\Debug\_07.SumFiveNumbers.pdb

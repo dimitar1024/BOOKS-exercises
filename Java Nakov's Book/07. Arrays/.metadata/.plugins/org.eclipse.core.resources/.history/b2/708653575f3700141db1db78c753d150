@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+
+public class _12_AlfaBetaProgram {
+
+	private static Scanner sc;
+
+	public static void main(String[] args) {
+		sc = new Scanner(System.in);
+		
+		char[] alfabet = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
+		String input = sc.nextLine();
+		char[] word = input.toCharArray();
+		
+		for (int i = 0; i < word.length; i++) {
+			for (int j = 0; j < alfabet.length; j++) {
+				if (word[i] == alfabet[j]) {
+					System.out.print(j+1 + ", ");
+				}
+			}
+		}
+	}
+
+}

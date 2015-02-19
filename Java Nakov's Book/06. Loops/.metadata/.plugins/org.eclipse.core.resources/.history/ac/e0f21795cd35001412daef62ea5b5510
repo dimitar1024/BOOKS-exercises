@@ -1,0 +1,68 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+
+public class _15_HexToDecimal {
+
+	public static void main(String[] args) throws IOException {
+		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
+
+		String hex = bf.readLine();
+		double number = 0;
+		
+		for (int i = hex.length()-1; i>=0; i++) {
+			switch (hex.charAt(i)) {
+			case '1':
+				number = number + Math.pow(16, 1);
+				break;
+			case '2':
+				number = number + Math.pow(16, 2);
+				break;
+			case '3':
+				number = number + Math.pow(16, 3);
+				break;
+			case '4':
+				number = number + Math.pow(16, 4);
+				break;
+			case '5':
+				number = number + Math.pow(16, 5);
+				break;
+			case '6':
+				number = number + Math.pow(16, 6);
+				break;
+			case '7':
+				number = number + Math.pow(16, 7);
+				break;
+			case '8':
+				number = number + Math.pow(16, 8);
+				break;
+			case '9':
+				number = number + Math.pow(16, 9);
+				break;
+			case 'A':
+				number = number + Math.pow(16, 10);
+				break;
+			case 'B':
+				number = number + Math.pow(16, 11);
+				break;
+			case 'C':
+				number = number + Math.pow(16, 12);
+				break;
+			case 'D':
+				number = number + Math.pow(16, 13);
+				break;
+			case 'E':
+				number = number + Math.pow(16, 14);
+				break;
+			case 'F':
+				number = number + Math.pow(16, 15);
+				break;
+
+			default:
+				break;
+			}
+		}
+	}
+
+}

@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\16. RandomNumbers\bin\Debug\_16.RandomNumbers.exe.config
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\16. RandomNumbers\bin\Debug\_16.RandomNumbers.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\16. RandomNumbers\bin\Debug\_16.RandomNumbers.pdb
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\16. RandomNumbers\obj\Debug\16. RandomNumbers.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\16. RandomNumbers\obj\Debug\_16.RandomNumbers.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\16. RandomNumbers\obj\Debug\_16.RandomNumbers.pdb

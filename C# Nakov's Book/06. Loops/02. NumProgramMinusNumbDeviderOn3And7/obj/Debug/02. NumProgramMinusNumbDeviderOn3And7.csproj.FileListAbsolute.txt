@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\02. NumProgramMinusNumbDeviderOn3And7\bin\Debug\_02.NumProgramMinusNumbDeviderOn3And7.exe.config
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\02. NumProgramMinusNumbDeviderOn3And7\bin\Debug\_02.NumProgramMinusNumbDeviderOn3And7.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\02. NumProgramMinusNumbDeviderOn3And7\bin\Debug\_02.NumProgramMinusNumbDeviderOn3And7.pdb
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\02. NumProgramMinusNumbDeviderOn3And7\obj\Debug\02. NumProgramMinusNumbDeviderOn3And7.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\02. NumProgramMinusNumbDeviderOn3And7\obj\Debug\_02.NumProgramMinusNumbDeviderOn3And7.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\02. NumProgramMinusNumbDeviderOn3And7\obj\Debug\_02.NumProgramMinusNumbDeviderOn3And7.pdb

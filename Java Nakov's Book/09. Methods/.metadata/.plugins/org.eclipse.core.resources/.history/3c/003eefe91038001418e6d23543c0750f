@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+
+public class _02_GreaterThanMethod {
+
+	private static Scanner sc;
+
+	public static void main(String[] args) {
+		sc = new Scanner(System.in);
+		
+		int first = sc.nextInt();
+		int second = sc.nextInt();
+		int third = sc.nextInt();
+		
+		
+	}
+	
+	public static void getMax(int f,int s,int t){
+		int max = Math.max(Math.max(f, s), t);
+		
+		System.out.println(max);
+	}
+	
+}

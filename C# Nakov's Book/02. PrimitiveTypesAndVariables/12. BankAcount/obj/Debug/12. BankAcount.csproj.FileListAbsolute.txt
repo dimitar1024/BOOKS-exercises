@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\12. BankAcount\bin\Debug\_12.BankAcount.exe.config
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\12. BankAcount\obj\Debug\12. BankAcount.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\12. BankAcount\bin\Debug\_12.BankAcount.exe
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\12. BankAcount\bin\Debug\_12.BankAcount.pdb
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\12. BankAcount\obj\Debug\_12.BankAcount.exe
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\12. BankAcount\obj\Debug\_12.BankAcount.pdb

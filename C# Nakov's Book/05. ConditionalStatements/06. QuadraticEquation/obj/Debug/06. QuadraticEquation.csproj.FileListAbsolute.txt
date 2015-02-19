@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe.config
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.pdb
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\06. QuadraticEquation\obj\Debug\06. QuadraticEquation.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.pdb

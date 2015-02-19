@@ -1,0 +1,5 @@
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\06.  RectangleArea\bin\Debug\_06.RectangleArea.exe.config
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\06.  RectangleArea\bin\Debug\_06.RectangleArea.exe
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\06.  RectangleArea\bin\Debug\_06.RectangleArea.pdb
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\06.  RectangleArea\obj\Debug\_06.RectangleArea.exe
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\06.  RectangleArea\obj\Debug\_06.RectangleArea.pdb

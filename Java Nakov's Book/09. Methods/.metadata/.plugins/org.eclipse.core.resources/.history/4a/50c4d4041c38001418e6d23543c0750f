@@ -1,0 +1,38 @@
+import java.util.Scanner;
+
+
+public class _06_GreaterThanOnArray {
+
+	public static void main(String[] args) {
+		//input
+		Scanner sc = new Scanner(System.in);
+		String input = sc.nextLine();
+		sc.close();
+		String[] numsToStr = input.split(" ");
+		int[] numbers = new int[numsToStr.length];
+		for (int i = 0; i < numsToStr.length; i++) {
+			numbers[i] = Integer.parseInt(numsToStr[i]);
+		}
+		//..end input
+
+		inspectElementEndPrintPosition(numbers);
+	}
+	
+	public static void inspectElementEndPrintPosition(int[] arr){
+		boolean isBigger = false;
+		
+		for (int i = 0; i < arr.length-1; i++) {
+			if ((arr[i-1] < arr[i])&&(arr[i+1] < arr[i])) {
+				System.out.println("position" + i);
+				isBigger = true;
+				return;
+			}
+			
+		}
+		
+		if (!isBigger) {
+			System.out.println("-1");
+		}
+	}
+
+}

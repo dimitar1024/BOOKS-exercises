@@ -1,0 +1,29 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+
+public class _03_FirmAcount {
+
+	public static void main(String[] args) throws IOException {
+		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
+		
+		String name = bf.readLine();
+		String addres = bf.readLine();
+		Long number = Long.parseLong(bf.readLine());
+		Long fax = Long.parseLong(bf.readLine());
+		String website = bf.readLine();
+		String mName = bf.readLine();
+		String mFamily = bf.readLine();
+		Long phone = Long.parseLong(bf.readLine());
+		
+		System.out.println("Company: " + name);
+		System.out.println("Adress: " + addres);
+		System.out.println("Phone: " + number);
+		System.out.println("Fax: " + fax);
+		System.out.println("Website: " + website);
+		System.out.printf("Manager: %1$s %2$s",mName,mFamily);
+		System.out.println("Phone: " + phone);
+	}
+
+}

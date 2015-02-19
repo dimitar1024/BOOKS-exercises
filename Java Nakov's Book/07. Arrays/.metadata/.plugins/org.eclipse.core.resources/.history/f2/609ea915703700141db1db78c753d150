@@ -1,0 +1,13 @@
+
+public class _16_PrimeNumbers {
+
+	public static void main(String[] args) {
+		for (int n = 0; n < 10_000_000; n++) {
+			if ((n%2!=0)&&(n%3!=0)&&(n%5!=0)&&(n%11!=0)||(n==2)||(n==3)||(n==5)||(n==7)) {
+				System.out.print(n + " ");
+			}
+		}
+
+	}
+
+}

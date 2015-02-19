@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\03. FirmAcount\bin\Debug\_03.FirmAcount.exe.config
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\03. FirmAcount\bin\Debug\_03.FirmAcount.exe
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\03. FirmAcount\bin\Debug\_03.FirmAcount.pdb
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\03. FirmAcount\obj\Debug\03. FirmAcount.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\03. FirmAcount\obj\Debug\_03.FirmAcount.exe
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\03. FirmAcount\obj\Debug\_03.FirmAcount.pdb

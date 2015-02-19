@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\05. CheckingCountNumbers\bin\Debug\_05.CheckingCountNumbers.exe.config
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\05. CheckingCountNumbers\bin\Debug\_05.CheckingCountNumbers.exe
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\05. CheckingCountNumbers\bin\Debug\_05.CheckingCountNumbers.pdb
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\05. CheckingCountNumbers\obj\Debug\05. CheckingCountNumbers.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\05. CheckingCountNumbers\obj\Debug\_05.CheckingCountNumbers.exe
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\05. CheckingCountNumbers\obj\Debug\_05.CheckingCountNumbers.pdb

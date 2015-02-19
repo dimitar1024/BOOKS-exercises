@@ -1,0 +1,54 @@
+import java.util.Scanner;
+
+
+public class _05_SequenceOfUpValueElements {
+
+	private static Scanner sc;
+
+	public static void main(String[] args) {
+		
+		sc = new Scanner(System.in);
+		
+		String input = sc.nextLine();
+		
+		String[] numStr = input.split(",");
+		
+		int[] numbers = new int[numStr.length];
+		
+		for (int i = 0; i < numbers.length; i++) {
+			numStr[i] = numStr[i].trim();
+			numbers[i] = Integer.parseInt(numStr[i]);
+		}
+		int index = 0;
+		int maxSequence = 0;
+		int counter = 0;
+		
+		for (int i = 0; i < numbers.length; i++) {
+			counter = 0;
+			int j = i;
+			int k = i+1;
+			while (numbers[j] < numbers[k]) {
+				counter++;
+				j++;
+				k++;
+				if (k >=numbers.length-1) {
+					break;
+				}
+			}
+			
+			if (counter > maxSequence) {
+				maxSequence = counter;
+				index = i;
+			}
+		}
+		
+		for (int i = index; i < index+maxSequence; i++) {
+			System.out.println(numbers[i] + " ");
+		}
+		
+		
+		
+
+	}
+
+}

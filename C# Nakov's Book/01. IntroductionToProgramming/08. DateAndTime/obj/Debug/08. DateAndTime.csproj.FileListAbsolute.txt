@@ -1,0 +1,5 @@
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\08. DateAndTime\bin\Debug\_08.DateAndTime.exe.config
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\08. DateAndTime\bin\Debug\_08.DateAndTime.exe
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\08. DateAndTime\bin\Debug\_08.DateAndTime.pdb
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\08. DateAndTime\obj\Debug\_08.DateAndTime.exe
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\08. DateAndTime\obj\Debug\_08.DateAndTime.pdb

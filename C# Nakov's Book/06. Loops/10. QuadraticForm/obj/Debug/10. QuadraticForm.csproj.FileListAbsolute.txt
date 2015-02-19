@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\10. QuadraticForm\bin\Debug\_10.QuadraticForm.exe.config
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\10. QuadraticForm\obj\Debug\10. QuadraticForm.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\10. QuadraticForm\bin\Debug\_10.QuadraticForm.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\10. QuadraticForm\bin\Debug\_10.QuadraticForm.pdb
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\10. QuadraticForm\obj\Debug\_10.QuadraticForm.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\10. QuadraticForm\obj\Debug\_10.QuadraticForm.pdb

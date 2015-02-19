@@ -1,0 +1,5 @@
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\14. PrimaryNumbers\bin\Debug\_14.PrimaryNumbers.exe.config
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\14. PrimaryNumbers\bin\Debug\_14.PrimaryNumbers.exe
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\14. PrimaryNumbers\bin\Debug\_14.PrimaryNumbers.pdb
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\14. PrimaryNumbers\obj\Debug\_14.PrimaryNumbers.exe
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\14. PrimaryNumbers\obj\Debug\_14.PrimaryNumbers.pdb

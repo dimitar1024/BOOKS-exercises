@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\08. CircleProgram\bin\Debug\_08.CircleProgram.exe.config
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\08. CircleProgram\obj\Debug\08. CircleProgram.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\08. CircleProgram\bin\Debug\_08.CircleProgram.exe
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\08. CircleProgram\bin\Debug\_08.CircleProgram.pdb
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\08. CircleProgram\obj\Debug\_08.CircleProgram.exe
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\08. CircleProgram\obj\Debug\_08.CircleProgram.pdb

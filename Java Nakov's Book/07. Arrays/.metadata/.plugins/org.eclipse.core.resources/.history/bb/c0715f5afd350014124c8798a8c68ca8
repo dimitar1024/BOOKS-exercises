@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+
+public class _02_CompareArrays {
+
+	private static Scanner input;
+
+	public static void main(String[] args) {
+		input = new Scanner(System.in);
+		
+		String one = input.nextLine();
+		String two = input.nextLine();
+		
+		int oneLen = one.length();
+		int twoLen = two.length();
+		boolean isEqual = true;
+		
+		for (int i = 0; i < oneLen; i++) {
+			for (int j = 0; j < twoLen; j++) {
+				if (one.charAt(i) == two.charAt(j)) {
+					isEqual = false;
+				}
+			}
+		}
+		
+		System.out.println("Is equal: " + isEqual);
+
+	}
+
+}

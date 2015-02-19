@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+
+public class _02_FindString {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Enter word you are looking:");
+		String word = sc.next();
+		public int count = 0;
+		
+		while (true) {
+			String line = sc.nextLine();
+			if (line == null) {
+				return;
+			}
+			int index = line.indexOf("\""+ word +"\"");
+			while (index !=-1) {
+				count++;
+				index = line.indexOf("\""+ word +"\"", index+1);			
+			}
+		}
+		
+		System.out.println(count);
+	}
+
+}

@@ -1,0 +1,5 @@
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\05. TrapezoidArea\bin\Debug\_05.TrapezoidArea.exe.config
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\05. TrapezoidArea\bin\Debug\_05.TrapezoidArea.exe
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\05. TrapezoidArea\bin\Debug\_05.TrapezoidArea.pdb
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\05. TrapezoidArea\obj\Debug\_05.TrapezoidArea.exe
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\05. TrapezoidArea\obj\Debug\_05.TrapezoidArea.pdb

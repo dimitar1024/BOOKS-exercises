@@ -1,0 +1,71 @@
+import java.util.Scanner;
+
+
+public class _08_MoreEqualElementsInArray {
+
+	private static Scanner sc;
+
+	public static void main(String[] args) {
+		
+		sc = new Scanner(System.in);
+		String elements = sc.nextLine();
+		String[] numToStr = elements.split(" ");
+		
+		int[] numbers = new int[numToStr.length];
+		for (int i = 0; i < numToStr.length; i++) {
+			numbers[i] = Integer.parseInt(numToStr[i]);
+		}
+		
+		int[] sort = sortArray(numbers);
+		
+		String exit = counterEqualElements(sort);
+		System.out.println(exit);
+	}
+	
+	public static int[] sortArray(int[] arr){
+		int min;
+		int n = arr.length;
+		for (int i = 0; i < n; i++) {
+			min = i;
+			for (int j = i+1; j < n; j++) {
+				if (arr[j] < arr[min]) {
+					min = j;
+				}
+			}
+			int temp = arr[i];
+			arr[i] = arr[min];
+			arr[min] = temp;
+		}
+		
+		return arr;
+	}
+	
+	public static String counterEqualElements(int[] arr){
+		int index =0;
+		int maxSequence=0;
+		int counter = 0;
+		
+		for (int i = 0; i < arr.length; i++) {
+			counter = 0;
+			int j = i;
+			
+			while (arr[i] == arr[j]) {
+				counter++;
+				j++;
+				if (j >=arr.length) {
+					break;
+				}
+			}
+			
+			if (counter > maxSequence) {
+				maxSequence = counter;
+				index = i;
+			}
+		}
+		
+		String exit = ("" + arr[index] + "(" + maxSequence +" times)");
+		return exit;
+		
+	}
+
+}

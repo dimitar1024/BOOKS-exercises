@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\04. CharType\bin\Debug\_04.CharType.exe.config
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\04. CharType\bin\Debug\_04.CharType.exe
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\04. CharType\bin\Debug\_04.CharType.pdb
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\04. CharType\obj\Debug\04. CharType.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\04. CharType\obj\Debug\_04.CharType.exe
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\04. CharType\obj\Debug\_04.CharType.pdb

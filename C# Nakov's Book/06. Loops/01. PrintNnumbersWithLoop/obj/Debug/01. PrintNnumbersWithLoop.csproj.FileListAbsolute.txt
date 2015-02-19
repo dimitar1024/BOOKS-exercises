@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\01. PrintNnumbersWithLoop\bin\Debug\_01.PrintNnumbersWithLoop.exe.config
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\01. PrintNnumbersWithLoop\obj\Debug\01. PrintNnumbersWithLoop.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\01. PrintNnumbersWithLoop\bin\Debug\_01.PrintNnumbersWithLoop.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\01. PrintNnumbersWithLoop\bin\Debug\_01.PrintNnumbersWithLoop.pdb
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\01. PrintNnumbersWithLoop\obj\Debug\_01.PrintNnumbersWithLoop.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\01. PrintNnumbersWithLoop\obj\Debug\_01.PrintNnumbersWithLoop.pdb

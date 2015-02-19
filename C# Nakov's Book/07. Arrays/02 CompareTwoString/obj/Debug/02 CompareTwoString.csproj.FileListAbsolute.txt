@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\07. SeventhChapter\02 CompareTwoString\bin\Debug\02 CompareTwoString.exe.config
+G:\Programing Language\C# Nakov's Book\07. SeventhChapter\02 CompareTwoString\obj\Debug\02 CompareTwoString.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\07. SeventhChapter\02 CompareTwoString\bin\Debug\02 CompareTwoString.exe
+G:\Programing Language\C# Nakov's Book\07. SeventhChapter\02 CompareTwoString\bin\Debug\02 CompareTwoString.pdb
+G:\Programing Language\C# Nakov's Book\07. SeventhChapter\02 CompareTwoString\obj\Debug\02 CompareTwoString.exe
+G:\Programing Language\C# Nakov's Book\07. SeventhChapter\02 CompareTwoString\obj\Debug\02 CompareTwoString.pdb

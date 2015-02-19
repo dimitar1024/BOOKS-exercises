@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\18. MatrixProgram\bin\Debug\_18.MatrixProgram.exe.config
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\18. MatrixProgram\bin\Debug\_18.MatrixProgram.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\18. MatrixProgram\bin\Debug\_18.MatrixProgram.pdb
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\18. MatrixProgram\obj\Debug\18. MatrixProgram.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\18. MatrixProgram\obj\Debug\_18.MatrixProgram.exe
+G:\Programing Language\C# Nakov's Book\06. SixthChapter\18. MatrixProgram\obj\Debug\_18.MatrixProgram.pdb

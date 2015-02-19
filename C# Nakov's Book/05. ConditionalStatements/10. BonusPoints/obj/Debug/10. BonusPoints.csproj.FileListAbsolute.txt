@@ -1,0 +1,5 @@
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\10. BonusPoints\bin\Debug\_10.BonusPoints.exe.config
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\10. BonusPoints\bin\Debug\_10.BonusPoints.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\10. BonusPoints\bin\Debug\_10.BonusPoints.pdb
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\10. BonusPoints\obj\Debug\_10.BonusPoints.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\10. BonusPoints\obj\Debug\_10.BonusPoints.pdb

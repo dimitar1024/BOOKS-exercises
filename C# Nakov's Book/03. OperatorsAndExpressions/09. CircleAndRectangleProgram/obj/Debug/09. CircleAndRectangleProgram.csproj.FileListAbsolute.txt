@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\09. CircleAndRectangleProgram\bin\Debug\_09.CircleAndRectangleProgram.exe.config
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\09. CircleAndRectangleProgram\bin\Debug\_09.CircleAndRectangleProgram.exe
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\09. CircleAndRectangleProgram\bin\Debug\_09.CircleAndRectangleProgram.pdb
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\09. CircleAndRectangleProgram\obj\Debug\09. CircleAndRectangleProgram.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\09. CircleAndRectangleProgram\obj\Debug\_09.CircleAndRectangleProgram.exe
+G:\Programing Language\C# Nakov's Book\03. ThirdChapter\09. CircleAndRectangleProgram\obj\Debug\_09.CircleAndRectangleProgram.pdb

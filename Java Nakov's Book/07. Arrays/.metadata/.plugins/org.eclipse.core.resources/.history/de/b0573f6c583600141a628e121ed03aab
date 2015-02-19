@@ -1,0 +1,51 @@
+import java.util.Scanner;
+
+
+public class _04_SequenceOfEqualElements {
+
+	private static Scanner in;
+
+	public static void main(String[] args) {
+		in = new Scanner(System.in);
+		String systemIn = in.nextLine().trim();
+		String[] numStr = systemIn.split(",");
+		int[] numbers = new int[numStr.length];
+		
+		for (int i = 0; i < numStr.length; i++) {
+			numStr[i] = numStr[i].trim();
+			numbers[i] = Integer.parseInt(numStr[i]);
+			//System.out.println(numStr[i] + " ");
+		}
+		int index =0;
+		int maxSequence=0;
+		int counter = 0;
+		
+		for (int i = 0; i < numbers.length; i++) {
+			counter = 0;
+			int j = i;
+			
+			while (numbers[i] == numbers[j]) {
+				counter++;
+				j++;
+				if (j >=numbers.length) {
+					break;
+				}
+			}
+			
+			if (counter > maxSequence) {
+				maxSequence = counter;
+				index = i;
+			}
+		}
+		
+		for (int j = index; j < index + maxSequence; j++) {
+			if (j == index+maxSequence) {
+				System.out.print(numbers[j]);
+			}
+			else {
+				System.out.print(numbers[j] + ", ");
+			}
+		}
+	}
+
+}

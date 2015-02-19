@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\04. CompareThreeNumbers\bin\Debug\_04.CompareThreeNumbers.exe.config
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\04. CompareThreeNumbers\obj\Debug\04. CompareThreeNumbers.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\04. CompareThreeNumbers\bin\Debug\_04.CompareThreeNumbers.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\04. CompareThreeNumbers\bin\Debug\_04.CompareThreeNumbers.pdb
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\04. CompareThreeNumbers\obj\Debug\_04.CompareThreeNumbers.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\04. CompareThreeNumbers\obj\Debug\_04.CompareThreeNumbers.pdb

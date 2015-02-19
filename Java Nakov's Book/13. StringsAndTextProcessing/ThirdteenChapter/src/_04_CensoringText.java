@@ -1,0 +1,35 @@
+import java.util.Arrays;
+import java.util.Scanner;
+
+
+public class _04_CensoringText {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		String dangerStr = sc.nextLine();
+		String[] dangerWords = dangerStr.split("[ ,.]+");
+		
+		String input = sc.nextLine();
+		
+		String[] textArray = input.split("[ ,.]+");
+		sc.close();
+		for (int i = 0; i < textArray.length; i++) {
+			for (int j = 0; j < dangerWords.length; j++) {
+				if (textArray[i].equals(dangerWords[j])) {
+					int len = dangerWords[j].length();
+					StringBuilder sb = new StringBuilder();
+					for (int k = 0; k < len; k++) {
+						sb.append("*");
+					}
+					String rep = sb.toString();
+					System.out.println(rep);
+					textArray[i].replace(textArray[i], rep);
+				}
+			}
+		}
+		String exit = Arrays.toString(textArray);
+		System.out.println(exit);
+	}
+
+}

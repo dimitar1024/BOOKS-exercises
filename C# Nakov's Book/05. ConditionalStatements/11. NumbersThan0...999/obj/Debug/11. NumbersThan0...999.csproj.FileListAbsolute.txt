@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\11. NumbersThan0...999\bin\Debug\_11.NumbersThan0._._._999.exe.config
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\11. NumbersThan0...999\bin\Debug\_11.NumbersThan0._._._999.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\11. NumbersThan0...999\bin\Debug\_11.NumbersThan0._._._999.pdb
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\11. NumbersThan0...999\obj\Debug\11. NumbersThan0...999.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\11. NumbersThan0...999\obj\Debug\_11.NumbersThan0._._._999.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\11. NumbersThan0...999\obj\Debug\_11.NumbersThan0._._._999.pdb

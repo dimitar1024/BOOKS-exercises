@@ -1,0 +1,31 @@
+import java.util.Scanner;
+
+
+public class _01_DeximalToBinaryExam {
+
+	private static Scanner sc;
+
+	public static void main(String[] args) {
+		sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		for (int i = 0; i < n; i++) {
+			int number = sc.nextInt();
+			CalculateBinaryNumbers(number);
+		}
+	}
+	
+	public static void CalculateBinaryNumbers(int num){
+		int number = num;
+		String bin = "";
+		int bit = 0;
+		while (number>0) {
+			bit = number%2;
+			number = number/2;
+			bin = bit + bin;
+		}
+		
+		System.out.println(bin);
+		return;
+	}
+
+}

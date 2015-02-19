@@ -1,0 +1,5 @@
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\09. SqrtOfNumbers\bin\Debug\_09.SqrtOfNumbers.exe.config
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\09. SqrtOfNumbers\bin\Debug\_09.SqrtOfNumbers.exe
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\09. SqrtOfNumbers\bin\Debug\_09.SqrtOfNumbers.pdb
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\09. SqrtOfNumbers\obj\Debug\_09.SqrtOfNumbers.exe
+G:\Programing Language\C# Nakov's Book\01. FirstChapter\09. SqrtOfNumbers\obj\Debug\_09.SqrtOfNumbers.pdb

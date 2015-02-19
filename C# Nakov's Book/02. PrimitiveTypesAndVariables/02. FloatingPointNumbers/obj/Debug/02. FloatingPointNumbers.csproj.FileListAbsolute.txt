@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\02. FloatingPointNumbers\bin\Debug\_02.FloatingPointNumbers.exe.config
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\02. FloatingPointNumbers\obj\Debug\02. FloatingPointNumbers.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\02. FloatingPointNumbers\bin\Debug\_02.FloatingPointNumbers.exe
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\02. FloatingPointNumbers\bin\Debug\_02.FloatingPointNumbers.pdb
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\02. FloatingPointNumbers\obj\Debug\_02.FloatingPointNumbers.exe
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\02. FloatingPointNumbers\obj\Debug\_02.FloatingPointNumbers.pdb

@@ -1,0 +1,3 @@
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\06. DeclareStringAndObject\bin\Debug\_06.DeclareStringAndObject.exe.config
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\06. DeclareStringAndObject\obj\Debug\_06.DeclareStringAndObject.exe
+G:\Programing Language\C# Nakov's Book\02. SecondChapter\06. DeclareStringAndObject\obj\Debug\_06.DeclareStringAndObject.pdb

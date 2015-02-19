@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\01. SumNumbersProgram\bin\Debug\_01.SumNumbersProgram.exe.config
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\01. SumNumbersProgram\bin\Debug\_01.SumNumbersProgram.exe
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\01. SumNumbersProgram\bin\Debug\_01.SumNumbersProgram.pdb
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\01. SumNumbersProgram\obj\Debug\01. SumNumbersProgram.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\01. SumNumbersProgram\obj\Debug\_01.SumNumbersProgram.exe
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\01. SumNumbersProgram\obj\Debug\_01.SumNumbersProgram.pdb

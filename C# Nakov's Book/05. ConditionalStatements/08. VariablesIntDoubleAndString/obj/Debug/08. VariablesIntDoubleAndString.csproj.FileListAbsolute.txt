@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\08. VariablesIntDoubleAndString\bin\Debug\_08.VariablesIntDoubleAndString.exe.config
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\08. VariablesIntDoubleAndString\obj\Debug\08. VariablesIntDoubleAndString.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\08. VariablesIntDoubleAndString\bin\Debug\_08.VariablesIntDoubleAndString.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\08. VariablesIntDoubleAndString\bin\Debug\_08.VariablesIntDoubleAndString.pdb
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\08. VariablesIntDoubleAndString\obj\Debug\_08.VariablesIntDoubleAndString.exe
+G:\Programing Language\C# Nakov's Book\05. Fifth Chapter\08. VariablesIntDoubleAndString\obj\Debug\_08.VariablesIntDoubleAndString.pdb

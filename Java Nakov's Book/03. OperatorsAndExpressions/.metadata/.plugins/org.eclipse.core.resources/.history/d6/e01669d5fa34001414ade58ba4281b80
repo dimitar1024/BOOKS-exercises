@@ -1,0 +1,33 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+import org.xml.sax.InputSource;
+
+
+public class _10_PlayWithNumbers {
+
+	public static void main(String[] args) throws NumberFormatException, IOException {
+		
+		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
+		int number = Integer.parseInt(bf.readLine());
+		
+		int a = number/1000;
+		int b = (number/100)%10;
+		int c = (number/10)%10;
+		int d = number%10;
+		
+		int sum = a+b+c+d;
+		String reverse = "" + d+c+b+a;
+		String result1 = "" + d+a+b+c;
+		String result2 = "" + a+c+b+d;
+		
+		System.out.println(sum);
+		System.out.println(reverse);
+		System.out.println(result1);
+		System.out.println(result2);
+		
+
+	}
+
+}

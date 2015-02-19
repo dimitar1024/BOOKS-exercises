@@ -1,0 +1,32 @@
+import java.util.Scanner;
+
+
+public class _03_TextWithUppercase {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		String text = sc.nextLine();
+		sc.close();
+		String exit = ModifyWithUpperCase(text);
+		System.out.println(exit);
+	}
+	
+	public static String ModifyWithUpperCase(String text){
+		int startReplace = text.indexOf("<upcase>");
+		int endReplace = text.indexOf("</upcase>");
+		System.out.println(startReplace);
+		System.out.println(endReplace);
+		
+		String uppercase = (String) text.subSequence(startReplace, endReplace);
+		System.out.println(uppercase);
+		uppercase = uppercase.toUpperCase();
+		StringBuilder sb = new StringBuilder();
+		sb.append(text);
+		sb.replace(startReplace, (endReplace + 8), uppercase);
+		
+		return text;
+	}
+	
+
+}

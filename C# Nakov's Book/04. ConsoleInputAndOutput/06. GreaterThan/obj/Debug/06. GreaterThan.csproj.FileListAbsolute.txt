@@ -1,0 +1,6 @@
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\06. GreaterThan\bin\Debug\_06.GreaterThan.exe.config
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\06. GreaterThan\bin\Debug\_06.GreaterThan.exe
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\06. GreaterThan\bin\Debug\_06.GreaterThan.pdb
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\06. GreaterThan\obj\Debug\06. GreaterThan.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\06. GreaterThan\obj\Debug\_06.GreaterThan.exe
+G:\Programing Language\C# Nakov's Book\04. FourthChapter\06. GreaterThan\obj\Debug\_06.GreaterThan.pdb
